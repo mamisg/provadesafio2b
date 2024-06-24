@@ -2,9 +2,9 @@
 
 Descrição sobre o que foi feito no projeto
 
-Flavio de Brito Silva 22240941-2
-Nathan sena da Rocha 22019973-2
-Gabriel Malavazi Rodrigues 22145231-2
+- Flavio de Brito Silva 22240941-2
+- Nathan sena da Rocha 22019973-2
+- Gabriel Malavazi Rodrigues 22145231-2
 
 ## 📑 Índice
 
