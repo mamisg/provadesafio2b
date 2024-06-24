@@ -1,6 +1,10 @@
-# Nest Studies
+# Nest
 
-Descrição curta sobre o que o projeto faz.
+Descrição sobre o que foi feito no projeto
+
+Flavio de Brito Silva 22240941-2
+Nathan sena da Rocha 22019973-2
+Gabriel Malavazi Rodrigues 22145231-2
 
 ## 📑 Índice
 
@@ -34,9 +38,6 @@ Antes de iniciar, certifique-se de ter instalado em seu ambiente:
 
 ## Instalação
 
-Clone o repositório:
-
-```git clone https://github.com/usuario/repositorio.git```
 
 Crie uma imagem docker em segundo plano
 
